@@ -1,6 +1,6 @@
 # KAIRÓS · O Jogo do Momento Decisivo
 
-> *"Em estratégia, não vence quem move mais — vence quem move no momento certo."*
+> *"Em estratégia, não vence quem move mais... vence quem move no momento certo."*
 
 ---
 
