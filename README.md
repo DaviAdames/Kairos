@@ -2,6 +2,8 @@
 
 > *"Em estratégia, não vence quem move mais... vence quem move no momento certo."*
 
+<img src="https://media.discordapp.net/attachments/669330406788562944/1552735800733601873/Captura_de_tela_2026-09-24_143552.png?ex=6ab6b167&is=6ab55fe7&hm=f75dcb8a86b593bc53f555f60d18ce7c0f0331656b0c9fdbfd7f82f242f2ae21&=&format=webp&quality=lossless&width=1536&height=863" alt="Tabuleiro Kairós" />
+
 ---
 
 ## Visão Geral
